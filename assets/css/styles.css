@@ -1,0 +1,8 @@
+body{
+    background-color: grey;
+    background-image: url(../images/01-02-02_ci-logo.png);
+}
+
+p{
+    font-weight: bold;
+}
